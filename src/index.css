@@ -58,13 +58,13 @@
     h1{
         font-size: 56px;
         color: #7342d6;
-        /* margin-bottom: 24px; */
+        margin-bottom: 24px;
         text-align: center;
     }
 
     h2{
         font-size: 32px;
-        /* margin-bottom: 32px; */
+        margin-bottom: 32px;
         text-align: center;
     }
 
@@ -230,7 +230,7 @@ margin: 0 auto;
     }
 
     header{
-        height: calc(100vh-80px);
+        height: calc(100vh - 80px);
     }
 
     .header__container{
