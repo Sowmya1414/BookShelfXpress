@@ -225,9 +225,9 @@ margin: 0 auto;
 
     */
 
-    #landing{
+    /* #landing{
         background-color: rgba(115,66,214,0.1);
-    }
+    } */
 
     header{
         height: calc(100vh-80px);
@@ -250,14 +250,14 @@ margin: 0 auto;
         align-items: center;
     }
 
-    .header__img--wrapper{
+    /*.header__img--wrapper{
         padding: 20px;
        max-width: 450px;
        margin:auto;
-        /*added
-*/
+    
         z-index: 50;
     }
+    */
 
     .container{
         padding: 56px 0;

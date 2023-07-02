@@ -1,5 +1,5 @@
 import React from "react";
-import UndrawBooks from '../Assets/Librarybro.gif'
+import UndrawBooks from '../Assets/Librarybro.png'
 
 
 const Landing = () => {
