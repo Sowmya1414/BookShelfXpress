@@ -237,7 +237,7 @@ margin: 0 auto;
         width: 100%;
         max-width: 720px;
         margin: 0 auto;
-        height: 100%;
+        height: auto;
         display: flex;
         flex-direction: column;
         justify-content:space-around;
@@ -252,10 +252,9 @@ margin: 0 auto;
 
     .header__img--wrapper{ 
         padding: 20px;
-       max-width: 450px;
+       max-width: 410px;
        margin:auto;
-    
-        z-index: 50;
+    z-index: 50;
     }
    
 
