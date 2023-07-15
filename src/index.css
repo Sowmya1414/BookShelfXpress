@@ -233,7 +233,7 @@ margin: 0 auto;
     }
 
     header{
-        height: calc(100vh - 80px);
+        height: calc(107vh - 80px);
     }
 
     .header__container{
