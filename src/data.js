@@ -25,7 +25,7 @@ export const books=[
   },
   {
     id: 4,
-    title: "Automate your busywork",
+    title: "Deep Work",
     url: "https://covers.openlibrary.org/b/id/10088428-L.jpg",
     originalPrice: 665,
     salePrice: 485,
@@ -33,7 +33,7 @@ export const books=[
   },
   {
     id: 5,
-    title: "The Desire Map",
+    title: "THE 10X RULE",
     url: "https://covers.openlibrary.org/b/id/9978588-L.jpg",
     originalPrice: 769,
     salePrice: 650,
@@ -41,7 +41,7 @@ export const books=[
   },
   {
     id: 6,
-    title: "Subtle Art",
+    title: "Sell or Be Sold",
     url: "https://covers.openlibrary.org/b/id/7737110-L.jpg",
     originalPrice: 975,
     salePrice: 845,
@@ -49,7 +49,7 @@ export const books=[
   },
   {
     id: 7,
-    title: "Sober Curious",
+    title: "Rich Dad Poor Dad",
     url: "https://covers.openlibrary.org/b/id/2380224-L.jpg",
     originalPrice: 1575,
     salePrice: 1345,
@@ -57,7 +57,7 @@ export const books=[
   },
   {
     id: 8,
-    title:" Ready Aim Fire",
+    title:" Cashflow quadrant",
     url:"https://covers.openlibrary.org/b/id/1954899-L.jpg",
     originalPrice: 1275,
     salePrice: 1045,
@@ -65,7 +65,7 @@ export const books=[
   },
   {
     id: 9,
-    title:" Atomic Habits",
+    title:" Summary of The 48 Laws of Power",
     url: "https://covers.openlibrary.org/b/id/8906626-L.jpg",
     originalPrice: 49.95,
     salePrice: null,
@@ -73,7 +73,7 @@ export const books=[
   },
   {
     id: 10,
-    title:" Solve For Happy",
+    title:" The 5 Second Rule",
     url: "https://covers.openlibrary.org/b/id/8114155-L.jpg",
     originalPrice: 2075,
     salePrice: null,
@@ -82,14 +82,14 @@ export const books=[
   {
     id: 11,
     title: "IKIGAI",
-    url: "https://covers.openlibrary.org/b/id/7895280-L.jpg",
+    url: "https://covers.openlibrary.org/b/id/12306248-L.jpg",
     originalPrice: 2575,
     salePrice: null,
     rating: 5.0,
   },
   {
   id: 12,
-    title: "Five minute journal ",
+    title: "Mastery",
     url: "https://covers.openlibrary.org/b/id/8479576-L.jpg",
     originalPrice: 799,
     salePrice: null,
